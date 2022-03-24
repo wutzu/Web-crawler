@@ -78,6 +78,6 @@ def download():
     wc.to_file('output.jpg') ##設定檔名
     chrome_browser.close() ##將麥當勞頁面關閉
 
-###麥香鷄
+
 
     
