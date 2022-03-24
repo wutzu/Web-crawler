@@ -1,7 +1,7 @@
 # Web-crawler
 
-##Before you start
-1.open your Chrome
+##Before you start '  '
+1.open your Chrome '  '
 2.go to setting
 3.click about Chrome
 4.see your Chrome version(for example x86_64)
