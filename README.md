@@ -9,5 +9,5 @@
 ### https://chromedriver.chromium.org/downloads
 ## 6.put it in your folder with this code file
 
-## MY video
+## 7.My video for explain
 ### https://youtu.be/MMjMj7yRQ24
