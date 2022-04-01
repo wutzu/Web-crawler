@@ -1,6 +1,6 @@
 # UI介面＆網頁自動化爬蟲
 
-# Before you start 
+
 ## open your Chrome 
 ## go to setting
 ## click about Chrome
