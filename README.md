@@ -1,13 +1,13 @@
-# UI介面
+# UI介面＆網頁自動化爬蟲
 
 # Before you start 
-## 1.open your Chrome 
-## 2.go to setting
-## 3.click about Chrome
-## 4.see your Chrome version(for example x86_64)
-## 5.here to download your version
+## open your Chrome 
+## go to setting
+## click about Chrome
+## see your Chrome version(for example x86_64)
+## here to download your version
 ### https://chromedriver.chromium.org/downloads
-## 6.put it in your folder with this code file
+## put it in your folder with this code file
 
 ## my video
 ### https://youtu.be/MMjMj7yRQ24
